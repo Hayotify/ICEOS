@@ -3,7 +3,7 @@
     <server>
       <protocol>HTTP</protocol>
       <hostname>localhost</hostname>
-      <port>7860</port>
+      <port>8000</port>
       <user>source</user>
       <password>autodjpassword</password>
       <reconnect_attempts>0</reconnect_attempts>
