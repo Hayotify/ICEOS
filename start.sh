@@ -25,7 +25,7 @@ while true; do
     # Stream the list
     ffmpeg -re -f concat -safe 0 -i /home/radio/ffmpeg_list.txt \
     -c:a libmp3lame -b:a 128k -content_type audio/mpeg \
-    -f mp3 icecast://source:autodjpassword@localhost:7860/autodj >> /tmp/ffmpeg.log 2>&1
+    -f mp3 icecast://source:autodjpassword@localhost:8000/autodj >> /tmp/ffmpeg.log 2>&1
     
     echo "Playlist finished. Reshuffling..."
     
