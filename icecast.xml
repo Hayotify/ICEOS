@@ -161,15 +161,15 @@
     <public>0</public>
   </mount>
   <mount type="normal">
-    <mount-name>/live</mount-name>
-    <password>livepassword</password>
-    <fallback-mount>/autodj</fallback-mount>
+    <mount-name>/pahadpur</mount-name>
+    <password>Sachin2005</password>
+    <fallback-mount>/hindi</fallback-mount>
     <fallback-override>1</fallback-override>
     <public>0</public>
   </mount>
   <mount type="normal">
-    <mount-name>/autodj</mount-name>
-    <password>autodjpassword</password>
+    <mount-name>/hindi</mount-name>
+    <password>Sachin2005</password>
     <public>0</public>
   </mount>
   <mount type="normal">
