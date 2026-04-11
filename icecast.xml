@@ -180,6 +180,8 @@
   <mount type="normal">
     <mount-name>/indian</mount-name>
     <password>Sachin2005</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
     <public>0</public>
   </mount>
   <mount type="normal">
