@@ -197,6 +197,8 @@
   <mount type="normal">
     <mount-name>/Sachin</mount-name>
     <password>Sachin2005</password>
+    <fallback-mount>/edm</fallback-mount>
+    <fallback-override>1</fallback-override>
     <public>0</public>
   </mount>
 
