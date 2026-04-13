@@ -199,6 +199,446 @@
     <password>Sachin2005</password>
     <public>0</public>
   </mount>
+
+  <mount type="normal">
+    <mount-name>/bollywood</mount-name>
+    <password>Bollywood2026!X7</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/punjabi</mount-name>
+    <password>PunjabiBeats#89K</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/bhojpuri</mount-name>
+    <password>BhojpuriWave$42P</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/tamil</mount-name>
+    <password>TamilHits@75Q</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/telugu</mount-name>
+    <password>TeluguGroove*91R</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/malayalam</mount-name>
+    <password>MalayalamMelody#63T</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/kannada</mount-name>
+    <password>KannadaTunes@28U</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/marathi</mount-name>
+    <password>MarathiMusic$56V</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/gujarati</mount-name>
+    <password>GujaratiVibes*19W</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/rajasthani</mount-name>
+    <password>RajasthaniFolk@34Y</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/hiphop</mount-name>
+    <password>HipHopIndia#72Z</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/remix</mount-name>
+    <password>RemixFactory$85A</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/edm</mount-name>
+    <password>EDMBeats*47B</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/trance</mount-name>
+    <password>TranceIndia@91C</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/chill</mount-name>
+    <password>ChillVibes#63D</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/lofi</mount-name>
+    <password>LofiStudy$29E</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/rock</mount-name>
+    <password>RockIndia*74F</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/metal</mount-name>
+    <password>MetalHeadz@18G</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/pop</mount-name>
+    <password>PopHits#52H</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/indie</mount-name>
+    <password>IndieScene$67J</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/classical</mount-name>
+    <password>ClassicalSoul*33K</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/devotional</mount-name>
+    <password>Devotional@86L</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/bhajan</mount-name>
+    <password>BhajanPeace#41M</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/qawwali</mount-name>
+    <password>QawwaliSoul$95N</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/sufi</mount-name>
+    <password>SufiSpirit*27P</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/folk</mount-name>
+    <password>FolkRoots@64Q</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/retro</mount-name>
+    <password>RetroGold#39R</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/oldies</mount-name>
+    <password>OldiesForever$82S</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/party</mount-name>
+    <password>PartyAnthem*16T</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/dance</mount-name>
+    <password>DanceFloor@53U</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/workout</mount-name>
+    <password>WorkoutEnergy#78V</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/night</mount-name>
+    <password>NightVibes$21W</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/cafe</mount-name>
+    <password>CafeChill*45X</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/travel</mount-name>
+    <password>TravelTunes@69Y</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/rain</mount-name>
+    <password>RainRelax#32Z</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/focus</mount-name>
+    <password>FocusFlow$57A</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/sleep</mount-name>
+    <password>SleepDeep*84B</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/study</mount-name>
+    <password>StudyBeats@13C</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/gaming</mount-name>
+    <password>GamingPulse#68D</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/live2</mount-name>
+    <password>LiveStream2$97E</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/radio1</mount-name>
+    <password>RadioOne*24F</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/radio2</mount-name>
+    <password>RadioTwo@51G</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/beats</mount-name>
+    <password>BeatsOnly#76H</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/desi</mount-name>
+    <password>DesiVibes$43J</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/viral</mount-name>
+    <password>ViralHits*88K</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/trending</mount-name>
+    <password>TrendingNow@12L</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/hit</mount-name>
+    <password>HitFactory#59M</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/fresh</mount-name>
+    <password>FreshTracks$36N</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/mashup</mount-name>
+    <password>MashupKing*71P</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/90s</mount-name>
+    <password>90sThrowback@25Q</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/2000s</mount-name>
+    <password>2000sRevival#48R</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/2020s</mount-name>
+    <password>2020sNow$93S</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/festival</mount-name>
+    <password>FestivalFire*17T</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/wedding</mount-name>
+    <password>WeddingVibes@62U</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
+
+  <mount type="normal">
+    <mount-name>/spiritual</mount-name>
+    <password>SpiritualPath#79V</password>
+    <fallback-mount>/namaste</fallback-mount>
+    <fallback-override>1</fallback-override>
+    <public>0</public>
+  </mount>
   <!--
     <mount type="normal">
         <mount-name>/auth_example.ogg</mount-name>
